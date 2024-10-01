@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pea2 bojangel"
+title:  "Pea2 bocangel"
 date:   2024-09-30 21:10:40 -0500
 categories: jekyll update
 ---
